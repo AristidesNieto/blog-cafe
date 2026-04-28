@@ -1,0 +1,10 @@
+# Variables de entorno
+server/.env
+client/.env
+
+# Dependencias
+server/node_modules/
+client/node_modules/
+
+# Build
+client/dist/
